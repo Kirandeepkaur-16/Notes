@@ -1,17 +1,10 @@
-# Notes Row Characters
-- ! (Exclamation Mark)
-- @ (At Sign)
-- $ (Dollar Sign)
-- % (Percent)
-- ^ (Caret)
-- & (Ampersand)
-- ( (Left Parenthesis)
-- ) (Right Parenthesis)
-# Links
-[George Brown College] (https://www.georgebrown.ca) 
-[Doubtnut] (https://www.doubtnut.com/search) 
-[Byju's] (https://byjus.com/ca/)
-# Emoji
-😃 
-😛 
-😅 
+## Keyboard shortcuts
+Shortcuts I frequently use:
+- Ctrl-Z (Undo)
+- Ctrl-B (Bold)
+- Ctrl-U (Underline)
+
+Shortcuts I would like to start using:
+- Ctrl-K (Insert Hyperlink)
+- Ctrl-I (Italic)
+- Ctrl-W (Close Windows)
