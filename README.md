@@ -8,3 +8,5 @@ Shortcuts I would like to start using:
 - Ctrl-K (Insert Hyperlink)
 - Ctrl-I (Italic)
 - Ctrl-W (Close Windows)
+
+[CLI commands](Docs/Cli.md)
